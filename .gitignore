@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.netlify/
+package-lock.json
+.DS_Store
+*.zip
+netlify-drop-*/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
